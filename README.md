@@ -1,2 +1,2 @@
-# Bunny
+Student Information System
 Frontend
